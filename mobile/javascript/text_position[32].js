@@ -1,1 +1,0 @@
-﻿positionForPages[32]={page:32,positions:[{word:"MENARA BANTEN EDISI II TAHUN 2021  ",left:0.026542,top:0.942266,width:0.518816,height:0.015308},{word:" | ",left:0.373756,top:0.942437,width:0.012337,height:0.014592},{word:" | ",left:0.438174,top:0.942437,width:0.012337,height:0.014592},{word:"32",left:0.113146,top:0.940703,width:0.020612,height:0.015489}]};
