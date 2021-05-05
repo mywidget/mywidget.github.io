@@ -2,7 +2,7 @@
   "aplikasi": [
     {
       "product": "APP_KASIR",
-      "version": 1,
+      "version": 2.1,
       "releaseDate": "2021-02-02",
       "updateDate": "2021-03-02",
       "demo": true
