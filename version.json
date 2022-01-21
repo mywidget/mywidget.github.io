@@ -2,11 +2,11 @@
   "aplikasi": [
     {
       "product": "APP_KASIR",
-      "version": "V2.7",
+      "version": "2.7",
       "file_download": "app_kasir_2.7.zip",
       "file_update": "app_kasir_update_2.7.zip",
       "releaseDate": "2021-02-02",
-      "updateDate": "2021-09-17",
+      "updateDate": "2022-01-21",
       "caption": "Fix Notif Update & Penambahan Printer",
       "demo": true
     }
