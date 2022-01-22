@@ -1,22 +1,14 @@
 {
-    "aplikasi": [
-        {
-            "product": "APP_KASIR",
-            "version": "2.4",
-            "file_download": "app_kasir_2.4.zip",
-            "file_update": "app_kasir_update_2.4.zip",
-            "releaseDate": "2021-02-02",
-            "updateDate": "2021-05-06",
-            "demo": true
-        },
-        {
-            "product": "APP_PROMO",
-            "version": 1.2,
-            "file_download": "app_kasir_2.4.zip",
-            "file_update": "app_kasir_update_2.4.zip",
-            "releaseDate": "2021-03-02",
-            "updateDate": "2021-04-02",
-            "demo": false
-        }
-    ]
+  "aplikasi": [
+    {
+      "product": "APP_KASIR",
+      "version": "2.7",
+      "file_download": "app_kasir_2.7.zip",
+      "file_update": "app_kasir_update_2.7.zip",
+      "releaseDate": "2021-02-02",
+      "updateDate": "2022-01-21",
+      "caption": "Fix Notif Update & Penambahan Printer",
+      "demo": true
+    }
+	]
 }
