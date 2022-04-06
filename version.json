@@ -2,12 +2,12 @@
     "aplikasi": [
     {
       "product": "APP_KASIR",
-      "version": "3.0",
-      "file_download": "app_kasir_3.0.zip",
-      "file_update": "app_kasir_update_3.0.zip",
+      "version": "3.0.2",
+      "file_download": "app_kasir_3.0.2.zip",
+      "file_update": "app_kasir_update_3.0.2.zip",
       "releaseDate": "2021-02-02",
-      "updateDate": "2022-02-16",
-      "caption": "Fix Bug & Error",
+      "updateDate": "2022-03-27",
+      "caption": "Fix bug & error",
       "demo": true
     }
 	]
