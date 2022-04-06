@@ -1,6 +1,6 @@
 {
-	"0.2.3": "http://127.0.0.1/server_app/0.2.3.zip",
-	"0.2.4": "http://127.0.0.1/server_app/0.2.4.zip",
-	"0.2.5": "http://127.0.0.1/server_app/0.2.5.zip",
-	"0.2.6": "http://127.0.0.1/server_app/0.2.6.zip"
+	"0.2.3": "https://mywidget.github.io/update/0.2.3.zip",
+	"0.2.4": "https://mywidget.github.io/update/0.2.4.zip",
+	"0.2.5": "https://mywidget.github.io/update/0.2.5.zip",
+	"0.2.6": "https://mywidget.github.io/update/0.2.6.zip"
 }
