@@ -9,7 +9,7 @@
       "updateDate": "2022-06-3",
       "caption": "Tester | command >update | >kas",
       "demo": true,
-      "url_image": "https://pospercetakan.my.id/images/version_30g.png"
+      "url_image": "https://pospercetakan.my.id/images/version_306.png"
     },{
       "product": "APP_KASIR",
       "version": "3.0.5",
@@ -19,7 +19,7 @@
       "updateDate": "2022-06-3",
       "caption": "Fix Minor Kas | command >update | >kas",
       "demo": true,
-      "url_image": "https://pospercetakan.my.id/images/version_30g.png"
+      "url_image": "https://pospercetakan.my.id/images/version_305.png"
     }
 	]
 }
