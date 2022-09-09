@@ -9,7 +9,7 @@
       "updateDate": "2022-09-07",
       "caption": "Penambahan Fitur",
       "demo": true,
-      "url_image": "https://pospercetakan.my.id/images/version_306.png"
+      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
     },{
       "product": "APP_KASIR",
       "version": "3.0.6",
@@ -19,7 +19,7 @@
       "updateDate": "2022-07-18",
       "caption": "Add SPK",
       "demo": true,
-      "url_image": "https://pospercetakan.my.id/images/version_306.png"
+      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
     },{
       "product": "APP_KASIR",
       "version": "3.0.5",
@@ -29,7 +29,7 @@
       "updateDate": "2022-06-3",
       "caption": "Fix Minor Kas | command >update | >kas",
       "demo": true,
-      "url_image": "https://pospercetakan.my.id/images/version_305.png"
+      "url_image": "https://pospercetakan.my.id/assets/images/version_305.png"
     }
 	]
 }
