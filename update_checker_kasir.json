@@ -1,0 +1,13 @@
+{
+    "aplikasi": [
+    {
+      "product": "POS_KASIR",
+      "version": "1.0",
+      "releaseDate": "2021-02-02",
+      "updateDate": "2022-10-06",
+      "caption": "Perbaikan awal",
+      "demo": true,
+      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+    }
+	]
+}
