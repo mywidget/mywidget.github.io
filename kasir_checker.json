@@ -1,0 +1,11 @@
+{
+    "aplikasi": [
+        {
+            "product": "APP_KASIR",
+            "version": "1.0",
+            "caption": "Rilis",
+            "demo": true,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }
+    ]
+}
