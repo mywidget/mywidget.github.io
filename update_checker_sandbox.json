@@ -2,6 +2,26 @@
     "aplikasi": [
     {
       "product": "APP_KASIR",
+      "version": "3.1.0",
+      "file_download": "app_kasir_3.0.8.zip",
+      "file_update": "app_kasir_update_3.0.8.zip",
+      "releaseDate": "2021-02-02",
+      "updateDate": "2023-04-15",
+      "caption": "Penambahan fitur share invoice via WA dll",
+      "demo": true,
+      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+    },{
+      "product": "APP_KASIR",
+      "version": "3.0.9",
+      "file_download": "app_kasir_3.0.8.zip",
+      "file_update": "app_kasir_update_3.0.8.zip",
+      "releaseDate": "2021-02-02",
+      "updateDate": "2023-01-15",
+      "caption": "Penambahan fitur share invoice via WA dll",
+      "demo": true,
+      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+    },{
+      "product": "APP_KASIR",
       "version": "3.0.8",
       "file_download": "app_kasir_3.0.8.zip",
       "file_update": "app_kasir_update_3.0.8.zip",
