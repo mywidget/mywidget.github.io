@@ -40,6 +40,13 @@
             "caption": "Penambahan Laporan Pendapatan to owner",
             "demo": true,
             "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.5",
+            "caption": "FIX BUG",
+            "demo": true,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
         }
     ]
 }
