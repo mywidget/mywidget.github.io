@@ -1,65 +1,138 @@
 {
     "aplikasi": [
-    {
-      "product": "APP_KASIR",
-      "version": "3.1.0",
-      "file_download": "app_kasir_3.0.8.zip",
-      "file_update": "app_kasir_update_3.0.8.zip",
-      "releaseDate": "2021-02-02",
-      "updateDate": "2023-04-15",
-      "caption": "Penambahan fitur share invoice via WA dll",
-      "demo": true,
-      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
-    },{
-      "product": "APP_KASIR",
-      "version": "3.0.9",
-      "file_download": "app_kasir_3.0.8.zip",
-      "file_update": "app_kasir_update_3.0.8.zip",
-      "releaseDate": "2021-02-02",
-      "updateDate": "2023-01-15",
-      "caption": "Penambahan fitur share invoice via WA dll",
-      "demo": true,
-      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
-    },{
-      "product": "APP_KASIR",
-      "version": "3.0.8",
-      "file_download": "app_kasir_3.0.8.zip",
-      "file_update": "app_kasir_update_3.0.8.zip",
-      "releaseDate": "2021-02-02",
-      "updateDate": "2022-10-10",
-      "caption": "Penambahan fitur kasbon dll",
-      "demo": true,
-      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
-    },{
-      "product": "APP_KASIR",
-      "version": "3.0.7",
-      "file_download": "app_kasir_3.0.7.zip",
-      "file_update": "app_kasir_update_3.0.7.zip",
-      "releaseDate": "2021-02-02",
-      "updateDate": "2022-09-09",
-      "caption": "Fix bug",
-      "demo": true,
-      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
-    },{
-      "product": "APP_KASIR",
-      "version": "3.0.6",
-      "file_download": "app_kasir_3.0.6.zip",
-      "file_update": "app_kasir_update_3.0.6.zip",
-      "releaseDate": "2021-02-02",
-      "updateDate": "2022-07-18",
-      "caption": "Add SPK",
-      "demo": true,
-      "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
-    },{
-      "product": "APP_KASIR",
-      "version": "3.0.5",
-      "file_download": "app_kasir_3.0.5.zip",
-      "file_update": "app_kasir_update_3.0.5.zip",
-      "releaseDate": "2021-02-02",
-      "updateDate": "2022-06-3",
-      "caption": "Fix Minor Kas | command >update | >fix_kas",
-      "demo": true,
-      "url_image": "https://pospercetakan.my.id/assets/images/version_305.png"
-    }
-	]
+        {
+            "product": "APP_KASIR",
+            "version": "1.1.0",
+            "updateDate": "2023-01-01",
+            "caption": "Rilis",
+            "demo": true,
+            "order": 1,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+            }, {
+            "product": "APP_KASIR",
+            "version": "1.2.0",
+            "updateDate": "2023-01-01",
+            "caption": "Penambahan Print Laporan",
+            "demo": true,
+            "order": 2,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.1",
+            "updateDate": "2023-01-01",
+            "caption": "FIX BUG",
+            "demo": true,
+            "order": 3,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.2",
+            "updateDate": "2023-01-01",
+            "caption": "FIX BUG",
+            "demo": true,
+            "order": 4,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.3",
+            "updateDate": "2023-01-01",
+            "caption": "Penambahan Laporan Pendapatan",
+            "demo": true,
+            "order": 5,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.4",
+            "updateDate": "2023-01-01",
+            "caption": "Penambahan Laporan Pendapatan to owner",
+            "demo": true,
+            "order": 6,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.5",
+            "updateDate": "2023-01-01",
+            "caption": "FIX BUG",
+            "demo": true,
+            "order": 7,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.6",
+            "updateDate": "2023-01-01",
+            "caption": "FIX BUG",
+            "demo": true,
+            "order": 8,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.7",
+            "updateDate": "2023-04-01",
+            "caption": "FIX MINOR BUG",
+            "demo": true,
+            "order": 9,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.8",
+            "updateDate": "2023-05-01",
+            "caption": "Penambahan Fitur Kirim Invoice Via Whatsapp",
+            "demo": true,
+            "order": 10,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.2.9",
+            "updateDate": "2023-05-05",
+            "caption": "Penambahan pintasan bayar",
+            "demo": true,
+            "order": 11,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.3.0",
+            "updateDate": "2023-05-18",
+            "caption": "Fix BUG Harga",
+            "demo": true,
+            "order": 12,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.3.1",
+            "updateDate": "2023-05-19",
+            "caption": "Penambahan fitur kirim pesan WA",
+            "demo": true,
+            "order": 13,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.3.2",
+            "updateDate": "2023-05-20",
+            "caption": "FIX BUG Print piutang & Penjualan",
+            "demo": true,
+            "order": 14,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.3.3",
+            "updateDate": "2023-05-21",
+            "caption": "FIX BUG",
+            "demo": true,
+            "order": 15,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }
+    ]
 }
