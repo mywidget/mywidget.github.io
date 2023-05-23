@@ -160,6 +160,15 @@
             "demo": true,
             "order": 18,
             "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.3.7",
+            "updateDate": "2023-05-23",
+            "caption": "FIX Omset Penjualan",
+            "demo": true,
+            "order": 19,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
         }
     ]
 }
