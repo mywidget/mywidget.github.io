@@ -176,7 +176,16 @@
             "updateDate": "2023-05-24",
             "caption": "FIX Laporan Penjapatan",
             "demo": true,
-            "order": 19,
+            "order": 20,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.3.9",
+            "updateDate": "2023-05-24",
+            "caption": "FIX Omset",
+            "demo": true,
+            "order": 21,
             "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
         }
     ]
