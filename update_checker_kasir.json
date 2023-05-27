@@ -187,6 +187,15 @@
             "demo": true,
             "order": 21,
             "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.4.0",
+            "updateDate": "2023-05-27",
+            "caption": "FIX BUG",
+            "demo": true,
+            "order": 21,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_306.png"
         }
     ]
 }
