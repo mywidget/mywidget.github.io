@@ -266,11 +266,7 @@
             "version": "1.4.2",
             "updateDate": "2023-05-31",
             "caption": "FIX Omset",
-            "detail": [
-                {
-                    "0": "Fix Omset"
-                }
-            ],
+            "detail": "Fix Omset",
             "demo": "https://kasir.pospercetakan.my.id",
             "order": 23,
             "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
