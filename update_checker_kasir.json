@@ -246,16 +246,7 @@
             "version": "1.4.1",
             "updateDate": "2023-05-29",
             "caption": "FIX Minor",
-            "detail": [
-                {
-                    "0": "Fix Pencarian",
-                    "1": "Penambahan fitur pada Update Versi",
-                    "2": "Penambahan filename pada Pengaturan Shared Folder",
-                    "3": "FIlter pada Whatsapp",
-                    "4": "Produk",
-                    "5": "Order"
-                }
-            ],
+            "detail":  "Fix Pencarian \n Penambahan fitur pada Update Versi \n Penambahan filename pada Pengaturan Shared Folder \n Filter pada Whatsapp \n Produk Order",
             "demo": "https://kasir.pospercetakan.my.id",
             "order": 23,
             "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
