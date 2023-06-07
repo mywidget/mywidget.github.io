@@ -259,7 +259,18 @@
             "caption": "FIX Omset",
             "detail": "Fix Omset",
             "demo": "https://kasir.pospercetakan.my.id",
-            "order": 23,
+            "order": 24,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
+            "url_detail": "https://pospercetakan.my.id/update-detail/1234"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.4.3",
+            "updateDate": "2023-05-31",
+            "caption": "Penambahan Surat Jalan & Minor BUG",
+            "detail": "Penambahan Surat Jalan & Minor BUG",
+            "demo": "https://kasir.pospercetakan.my.id",
+            "order": 25,
             "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
             "url_detail": "https://pospercetakan.my.id/update-detail/1234"
         }
