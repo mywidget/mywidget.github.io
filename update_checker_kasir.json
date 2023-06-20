@@ -273,6 +273,28 @@
             "order": 25,
             "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
             "url_detail": "https://pospercetakan.my.id/update-detail/1234"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.4.4",
+            "updateDate": "2023-06-18",
+            "caption": "Fix Pengeluaran & penambahan kembalian",
+            "detail": "Fix Pengeluaran & penambahan kembalian",
+            "demo": "https://kasir.pospercetakan.my.id",
+            "order": 26,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
+            "url_detail": "https://pospercetakan.my.id/update-detail/update-log-26"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.4.5",
+            "updateDate": "2023-06-20",
+            "caption": "Penambahan Keterangan",
+            "detail": "Penambahan Keterangan",
+            "demo": "https://kasir.pospercetakan.my.id",
+            "order": 27,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
+            "url_detail": "https://pospercetakan.my.id/update-detail/update-log-27"
         }
     ]
 }
