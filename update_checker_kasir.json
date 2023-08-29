@@ -339,6 +339,17 @@
             "order": 31,
             "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
             "url_detail": "https://pospercetakan.my.id/update-detail/update-log-29"
+        }, 
+        {
+            "product": "APP_KASIR",
+            "version": "1.5.0",
+            "updateDate": "2023-08-22",
+            "caption": "Penambahan Fitur & FIx BUG",
+            "detail": "Penambahan Fitur & FIx BUG",
+            "demo": "https://kasir.pospercetakan.my.id",
+            "order": 32,
+            "url_image": "https://pospercetakan.my.id/assets/images/version_141.png",
+            "url_detail": "https://pospercetakan.my.id/update-detail/update-log-29"
         }
     ]
 }
