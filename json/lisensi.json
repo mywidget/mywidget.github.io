@@ -1,0 +1,23 @@
+{
+    "aplikasi": [
+    {
+      "id": "S-001",
+      "product": "SIAKAD",
+      "version": "1.0",
+      "license_key": "nHawKipGQ38EJ4vo",
+      "domain": "absen.go",
+      "license_status": "active",
+      "create_date": "2022-11-01",
+      "expired_date": "2023-12-30"
+    },{
+      "id": "S-002",
+      "product": "SIAKAD",
+      "version": "1.0",
+      "license_key": "TbXHYlkMtd5VrFEK",
+      "domain": "infraa.id",
+      "license_status": "active",
+      "create_date": "2023-11-02",
+      "expired_date": "2024-12-30"
+    } 
+	]
+}
