@@ -18,6 +18,15 @@
       "license_status": "active",
       "create_date": "2023-11-02",
       "expired_date": "2024-12-30"
+    },{
+      "id": "S-003",
+      "product": "SIAKAD",
+      "version": "1.0",
+      "license_key": "nHawKipGQ38EJ4vo",
+      "domain": "lato.my.id",
+      "license_status": "active",
+      "create_date": "2023-11-02",
+      "expired_date": "2024-12-30"
     } 
 	]
 }
